@@ -60,7 +60,7 @@ cp .env.example .env
 Open `.env` and replace the placeholder:
 
 ```
-GROQ_API_KEY=gsk_your_actual_key_here
+GROQ_API_KEY=gsk_your_actual_groq_api_key_here
 ```
 
 Get a free key at [console.groq.com](https://console.groq.com) → API Keys.
