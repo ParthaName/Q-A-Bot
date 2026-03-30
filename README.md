@@ -33,6 +33,7 @@ ai-qa-app/
 ├── qa_chain.py         # LangChain + Groq chain setup
 ├── config.py           # Model config, loads env vars
 ├── .env                # Your API key (never commit this)
+├── .env.example        # Edit this file for groq_api_key
 ├── .gitignore
 ├── requirements.txt
 └── README.md
